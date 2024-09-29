@@ -20,7 +20,7 @@ export default function Home() {
       </Container>
       <TopBar />
       {/* <div style={{ height: '3000px' }} /> */}
-      <Container className="mt-10 pb-14" style={{ minHeight: '100vh' }}>
+      <Container className="mt-10 pb-14">
         <div className="flex gap-[80px]">
           {/*Filtration*/}
           <div className="w-[250px]">
